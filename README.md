@@ -1,44 +1,73 @@
-<h1 align="center">Hello everyone👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=8e44ad&lines=Hello+everyone!+👋;+I'm+Pavlo+Mytrovtsiy!;" alt="Typing SVG" />
+</h1>
 
-My name is **Pavlo Mytrovtsiy**, I am a coder from Ukraine. I have been in the IT world for about 4 years and want to improve in this direction. Since my childhood, I like to create something, for example, some interesting games or some web applications.
+<h3 align="center">👨‍💻 I am a Web and Game Developer from Ukraine 🎮</h3>
 
-- 🔭 I’m currently working on **Smile&Task**
-- 🌱 I’m currently learning **JavaScript**
-- 📄 Know about my experiences [here](https://mytrovtsiy-site.web.app/timeline)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=newbumper&show_icons=true&locale=en&layout=compact" alt="newbumper" />
-  </a>
+<p align="center">
+I have been in the IT world for about 4 years and want to improve in this direction 🚀
 </p>
+
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Smile&Task**
+ 
+ 🌱 I’m currently learning **JavaScript and TypeScript**
+
+💬 Know about my experiences <a href="https://mytrovtsiy-site.web.app/timeline" target="_blank"><strong>here</strong></a>
+
+ </div>
+ 
+<div align="center"> 
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bumpermytrovtsiy%40gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mytrovtsiy-site.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Site-blue?style=for-the-badge&logo=&logoColor=white" target="_blank" />
+
+  </a>
+</div>
+
+
+
+
+
+<hr/>
+
+<h2 align="center">🛠️ My Toolbox 🛠️</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🛠️ Editors&IDE</strong>
+      </td>
+      <td align="center">
+        <strong>🎨 Frontend</strong>
+      </td>
+      <td align="center">
+        <strong>💻 Backend</strong>
+      </td>
+      <td align="center">
+        <strong>🌐 Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,unity" alt="VSCode, WebStorm, PyCharm, Unity" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="React, Bootstrap, Tailwind CSS" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase" alt="Node.js, Firebase" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" alt="HTML, CSS, JavaScript, TypeScript, Python" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
