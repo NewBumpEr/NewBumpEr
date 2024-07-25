@@ -13,7 +13,7 @@ I have been in the IT world for about 4 years and want to improve in this direct
  
  🔭 I’m currently working on **Smile&Task**
  
- 🌱 I’m currently learning **JavaScript and TypeScript**
+ 🌱 I’m currently learning **TypeScript and Electron**
 
 💬 Know about my experiences <a href="https://mytrovtsiy-site.web.app/timeline" target="_blank"><strong>here</strong></a>
 
