@@ -55,7 +55,7 @@ I have been in the IT world for about 4 years and want to improve in this direct
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,unity" alt="VSCode, WebStorm, PyCharm, Unity" />
+        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,unity,androidstudio" alt="VSCode, WebStorm, PyCharm, Unity, AndroidStudio" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="React, Bootstrap, Tailwind CSS" />
@@ -64,7 +64,7 @@ I have been in the IT world for about 4 years and want to improve in this direct
         <img src="https://skillicons.dev/icons?i=nodejs,firebase" alt="Node.js, Firebase" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" alt="HTML, CSS, JavaScript, TypeScript, Python" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,cs" alt="HTML, CSS, JavaScript, TypeScript, Python. C#" />
       </td>
     </tr>
   </table>
