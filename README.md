@@ -11,7 +11,7 @@ I have been in the IT world for about 4 years and want to improve in this direct
 
 <div align="center">
  
- 🔭 I’m currently working on **Smile&Task**
+ 🔭 I’m currently working on **Smile&Task** and **HeaderMaker**
  
  🌱 I’m currently learning **TypeScript and Electron**
 
