@@ -34,10 +34,10 @@ I have been in the IT world for about 4 years and want to improve in this direct
 
 
 <hr/>
-
 <h2 align="center">🛠️ My Toolbox 🛠️</h2>
 
 <div align="center">
+  <h3>🌐 Web Development</h3>
   <table>
     <tr>
       <td align="center">
@@ -55,19 +55,46 @@ I have been in the IT world for about 4 years and want to improve in this direct
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,unity,androidstudio" alt="VSCode, WebStorm, PyCharm, Unity, AndroidStudio" />
+        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,androidstudio" alt="VSCode, WebStorm, PyCharm, AndroidStudio" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="React, Bootstrap, Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,electron" alt="React, Bootstrap, Tailwind CSS, Electron" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,firebase" alt="Node.js, Firebase" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,cs" alt="HTML, CSS, JavaScript, TypeScript, Python. C#" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="HTML, CSS, JavaScript, TypeScript" />
+      </td>
+    </tr>
+  </table>
+  
+  <h3>🎮 Game Development</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🛠️ Editors</strong>
+      </td>
+      <td align="center">
+        <strong>📦 Engines</strong>
+      </td>
+      <td align="center">
+        <strong>🌐 Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="VSCode, VisualStudio" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <hr/>
