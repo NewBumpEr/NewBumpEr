@@ -8,7 +8,6 @@
 I have been in the IT world for about 4 years and want to improve in this direction 🚀
 </p>
 
-
 <div align="center">
  
  🔭 I’m currently working on **Smile&Task** and **HeaderMaker**
@@ -29,11 +28,8 @@ I have been in the IT world for about 4 years and want to improve in this direct
   </a>
 </div>
 
-
-
-
-
 <hr/>
+
 <h2 align="center">🛠️ My Toolbox 🛠️</h2>
 
 <div align="center">
@@ -95,6 +91,5 @@ I have been in the IT world for about 4 years and want to improve in this direct
     </tr>
   </table>
 </div>
-
 
 <hr/>
