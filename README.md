@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,androidstudio" alt="VSCode, WebStorm, PyCharm, AndroidStudio" />
+        <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm" alt="VSCode, WebStorm, PyCharm" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,electron" alt="React, Bootstrap, Tailwind CSS, Electron" />
