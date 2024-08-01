@@ -45,7 +45,7 @@
         <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,electron" alt="React, Bootstrap, Tailwind CSS, Electron" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,firebase" alt="Node.js, Firebase" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="HTML, CSS, JavaScript, TypeScript" />
