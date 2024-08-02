@@ -11,7 +11,7 @@
 <div align="center">
   🔭 I’m currently working on <strong>Smile&Task</strong> and <strong>HeaderMaker</strong>
   
-  🌱 I’m currently learning <strong>TypeScript and Electron</strong>
+  🌱 I’m currently learning <strong>Electron</strong>
 
   💬 Know about my experiences <a href="https://mytrovtsiy-site.web.app/timeline" target="_blank"><strong>here</strong></a>
 </div>
