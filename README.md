@@ -83,7 +83,7 @@
 ###
 <hr />
 
-<h2 align="center">My statistics</h2>
+<h2 align="center">🔥 My statistics 🔥</h2>
 
 ###
 
@@ -100,7 +100,7 @@
 
 <hr />
 
-<h2 align="center">📬 Contact with me</h2>
+<h2 align="center">📬 Contact with me 📬</h2>
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bumpermytrovtsiy%40gmail.com" style="margin: 0 15px;">
