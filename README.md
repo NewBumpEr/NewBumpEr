@@ -16,6 +16,12 @@
   💬 Know about my experiences <a href="https://mytrovtsiy-site.web.app/timeline" target="_blank"><strong>here</strong></a>
 </div>
 
+<h2 align="center">💡 My Motto 💡</h2>
+
+<h3 align="center">
+ 🚀 Keep exploring, 🌟 stay curious, and never stop coding! 💻
+</h3>
+
 <hr />
 
 <h2 align="center">🛠️ My Toolbox 🛠️</h2>
@@ -80,23 +86,17 @@
   </table>
 </div>
 
-###
 <hr />
 
 <h2 align="center">🔥 My statistics 🔥</h2>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=newbumper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newbumper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-###
+</div>
 
 <hr />
 
