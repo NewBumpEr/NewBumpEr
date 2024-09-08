@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  🔭 I’m currently working on <strong>Website Smile&Task</strong>
+  🔭 I’m currently working on <strong>Project Smile&Task</strong>
   
   🌱 I’m currently learning <strong>Telegram Bot API</strong>
 
