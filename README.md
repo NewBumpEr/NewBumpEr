@@ -11,7 +11,7 @@
 <div align="center">
   🔭 I’m currently working on <strong>Project Smile&Task</strong>
   
-  🌱 I’m currently learning <strong>Telegram Bot API</strong>
+  🌱 I’m currently learning <strong>Leaflet.js</strong>
 
   💬 Know about my experiences <a href="https://mytrovtsiy-site.web.app/timeline" target="_blank"><strong>here</strong></a>
 </div>
