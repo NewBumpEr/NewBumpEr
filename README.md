@@ -16,12 +16,6 @@
   💬 Know about my experiences <a href="https://mytrovtsiy-site.web.app/timeline" target="_blank"><strong>here</strong></a>
 </div>
 
-<h2 align="center">💡 My Motto 💡</h2>
-
-<h3 align="center">
- 🚀 Keep exploring, 🌟 stay curious, and never stop coding! 💻
-</h3>
-
 <hr />
 
 <h2 align="center">🛠️ My Toolbox 🛠️</h2>
