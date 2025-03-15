@@ -14,7 +14,7 @@
 
   🌱 **Learning:** Leaflet.js
 
-  💬 **Experience:** Find out more on my [timeline](https://mytrovtsiy-site.web.app/timeline)
+  💬 **Experience:** Find out more on my [timeline](https://mytrovtsiy.vercel.app/timeline)
 </div>
 
 <hr />
