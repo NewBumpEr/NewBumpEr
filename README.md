@@ -1,7 +1,7 @@
-<h3 align="center">👨‍💻 Web & Game Dev 🎮</h3>
+<h3 align="center">👨‍💻 developer 🎮</h3>
 
 <p align="center">
-  4+ years in IT | Building <b>Smile&Task</b> | <a href="https://mytrovtsiy.vercel.app/timeline">Experience ↗</a>
+  5+ years in IT | Building <b>Smile&Task</b> | <a href="https://mytrovtsiy.vercel.app/timeline">Experience ↗</a>
 </p>
 
 <hr/>
